@@ -1,3 +1,3 @@
 # demo
 This is my first repository
-<br>Author - Yadhu
+<br>Author - YadhuNamdan c
